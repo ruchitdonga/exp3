@@ -1,0 +1,1 @@
+print("hobbies : Gaming") 
